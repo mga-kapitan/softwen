@@ -1,15 +1,20 @@
 # Project: PROJECT_NAME
-###Project Description
+Project Description
 
 # Project Planning
+
 ## Limitations
 * writing...
+
 ## System Requirements
 * writing...
+
 ## Platform
 * Example: Windows, Android, iOS, Linux etc..
+
 ## Languages
 * writing...
+
 
 # Workflow
 * Git checkout origin/prototype branch
