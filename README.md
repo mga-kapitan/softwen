@@ -1,14 +1,14 @@
 # Project: PROJECT_NAME
 ###Project Description
 
-#Planning
-### Limitations
+# Project Planning
+## Limitations
 * writing...
-### System Requirements
+## System Requirements
 * writing...
-### Platform
+## Platform
 * Example: Windows, Android, iOS, Linux etc..
-### Languages
+## Languages
 * writing...
 
 # Workflow
