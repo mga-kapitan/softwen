@@ -1,5 +1,5 @@
 # Project: PROJECT_NAME
-###Project Description
+Project Description
 
 # Project Planning
 
